@@ -1,0 +1,2 @@
+1. Add custom exceptions
+2. Clear magic numbers and other literals
